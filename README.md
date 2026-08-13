@@ -1,27 +1,7 @@
-<p align="center" style="font-size:32px">
-    Google Ads API
-</p>
+# Google Ads API
+Unofficial Google Ads API client library for Node.js
 
-<p align="center">
-  Unofficial Google Ads API client library for Node.js
-</p>
-<p align="center">
-  <a href="https://developers.google.com/google-ads/api/docs/release-notes">
-    <img src="https://img.shields.io/badge/google%20ads-v20.0.0-009688.svg?style=flat-square">
-  </a>
-  <a href="https://www.npmjs.com/package/google-ads-api">
-    <img src="https://img.shields.io/npm/v/google-ads-api.svg?style=flat-square">
-  </a>
-  <a>
-    <img src="https://img.shields.io/npm/dm/google-ads-api.svg?style=flat-square">
-    </a>
-</p>
-
-<p align="center">
-  <a href="https://opteo.com">
-    <img src="https://app.opteo.com/favicon.png" width="90" height="90">
-  </a>
-</p>
+**_Archived: Opteo unfortunately declined to upstream service-account support ([#525](https://github.com/Opteo/google-ads-api/pull/525)), which would have meant rebasing this fork onto every new Google Ads API version. I did this for a while but moved on. You can call the REST API directly, where a service account is just a bearer token and no patched client is needed._**
 
 # Features
 
